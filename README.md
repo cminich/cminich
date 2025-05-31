@@ -1,4 +1,7 @@
-## Hi there 👋
+## Curt Minich 👋
+- 📫 How to reach me: cminich@gmail.com
+
+
 
 <!--
 **cminich/cminich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
